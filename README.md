@@ -15,4 +15,4 @@ Live Demo : https://sakshamhayaran.github.io/Quiz-App/
 - git clone https://github.com/sakshamhayaran/Quiz-App.git
 - cd Quiz-App
 - npm install
-- npm run dev        # Run locally at http://localhost:5173
+- npm run dev
