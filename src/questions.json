@@ -1,0 +1,62 @@
+[
+    {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What does CPU stand for?",
+        "correct_answer": "Central Processing Unit",
+        "incorrect_answers": [
+            "Central Process Unit",
+            "Computer Personal Unit",
+            "Central Processor Unit"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What does CSS stand for?",
+        "correct_answer": "Cascading Style Sheets",
+        "incorrect_answers": [
+            "Creative Style System",
+            "Computer Style Sheets",
+            "Colorful Style Syntax"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which planet is known as the Red Planet?",
+        "correct_answer": "Mars",
+        "incorrect_answers": [
+            "Venus",
+            "Jupiter",
+            "Saturn"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What is the capital city of France?",
+        "correct_answer": "Paris",
+        "incorrect_answers": [
+            "Madrid",
+            "Rome",
+            "Berlin"
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "In which game do players compete in the 'Battle Royale' mode on an island?",
+        "correct_answer": "Fortnite",
+        "incorrect_answers": [
+            "The Sims",
+            "Stardew Valley",
+            "Civilization VI"
+        ]
+    }
+]
