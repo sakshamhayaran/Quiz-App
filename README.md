@@ -12,7 +12,7 @@ Live Demo : https://sakshamhayaran.github.io/Quiz-App/
 - Responsive UI
 
 ## Setup
-git clone https://github.com/sakshamhayaran/Quiz-App.git
-cd Quiz-App
-npm install
-npm run dev        # Run locally at http://localhost:5173
+- git clone https://github.com/sakshamhayaran/Quiz-App.git
+- cd Quiz-App
+- npm install
+- npm run dev        # Run locally at http://localhost:5173
