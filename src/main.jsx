@@ -17,7 +17,8 @@ const router = createBrowserRouter([
       { path:"result", element:<Result /> },
     ],
   },
-])
+], { basename: '/Quiz-App' }
+)
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
